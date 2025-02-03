@@ -10,27 +10,28 @@ The increasing complexity and volume of crime data present significant challenge
 4. Create 10 diverse charts in Python for comprehensive data visualization. 
 
 ## Data Set Explanation
-The dataset contains records of reported crimes in Chicago. Each record includes details such as the type of crime, location, arrest status, and other relevant information. The fields in the dataset are as follows
-o	- ID: Unique identifier for each crime incident.
-o	- Case Number: Unique case number assigned to each incident.
-o	- Date: Date and time when the crime occurred.
-o	- Block: Block where the crime occurred.
-o	- IUCR: Illinois Uniform Crime Reporting code assigned to the crime type.
-o	- Primary Type: Primary classification of the crime.
-o	- Description: Detailed description of the crime.
-o	- Location Description: Description of the location where the crime occurred.
-o	- Arrest: Indicates whether an arrest was made (TRUE/FALSE).
-o	- Domestic: Indicates whether the crime was domestic-related (TRUE/FALSE).
-o	- Beat: Police beat where the crime occurred.
-o	- District: Police district where the crime occurred.
-o	- Ward: Ward where the crime occurred.
-o	- Community Area: Community area where the crime occurred.
-o	- FBI Code: FBI code classification for the crime.
-o	- X Coordinate: X coordinate of the crime location.
-o	- Y Coordinate: Y coordinate of the crime location.
-o	- Year: Year when the crime was reported.
-o	- Updated On: Date when the record was last updated.
-o	- Latitude: Latitude of the crime location.
-o	- Longitude: Longitude of the crime location.
-o	- Location: Combined latitude and longitude in a string format. 
+The dataset contains records of reported crimes in Chicago. Each record includes details such as the type of crime, location, arrest status, and other relevant information. The fields in the dataset are as follows:
+
+- ID: Unique identifier for each crime incident.
+- Case Number: Unique case number assigned to each incident.
+- Date: Date and time when the crime occurred.
+- Block: Block where the crime occurred.
+- IUCR: Illinois Uniform Crime Reporting code assigned to the crime type.
+- Primary Type: Primary classification of the crime.
+- Description: Detailed description of the crime.
+- Location Description: Description of the location where the crime occurred.
+- Arrest: Indicates whether an arrest was made (TRUE/FALSE).
+- Domestic: Indicates whether the crime was domestic-related (TRUE/FALSE).
+- Beat: Police beat where the crime occurred.
+- District: Police district where the crime occurred.
+- Ward: Ward where the crime occurred.
+- Community Area: Community area where the crime occurred.
+- FBI Code: FBI code classification for the crime.
+- X Coordinate: X coordinate of the crime location.
+- Y Coordinate: Y coordinate of the crime location.
+- Year: Year when the crime was reported.
+- Updated On: Date when the record was last updated.
+- Latitude: Latitude of the crime location.
+- Longitude: Longitude of the crime location.
+- Location: Combined latitude and longitude in a string format. 
 
