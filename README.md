@@ -92,7 +92,7 @@ To address dataset inconsistencies and missing values, the following steps were 
 - This situation underscores critical shortcomings in tracking and apprehending offenders involved in such heinous crimes.
 
 
-### 6.	The only arrested case reported on 2024 new year
+### 6.	The only arrested case reported on 2024 new year in North zone
 ![image](https://github.com/user-attachments/assets/38b340f9-1f4a-4eb8-8289-6550069ed48a)
 - On New Year's Eve 2024, the only reported arrest was related to narcotics. 
 - However, the data lacks precise information about the crime spot, which is a critical detail for effectively curbing narcotics supply, particularly among teenagers. Ensuring detailed documentation and targeted measures are vital to mitigate the narcotics threat and protect vulnerable groups.
@@ -117,7 +117,8 @@ To address dataset inconsistencies and missing values, the following steps were 
 - Additionally, implementing targeted awareness programs, rehabilitation initiatives, and stricter enforcement can further aid in curbing drug-related crimes.
 
 ### 10.  Kidnapping case in district-1
-![image](https://github.com/user-attachments/assets/7c4e354b-6ae6-4cbf-8f46-a638b44f51e4)
+![image](https://github.com/user-attachments/assets/ebb44337-e800-4e22-b2ac-f5d86b859c91)
+
 - Kidnapping incidents reported in the district ‘1’ remain unresolved, as the offenders have not been apprehended by officials. 
 - This raises serious concerns about the safety and security of residents in the region. Deploying specialized task forces to prioritize and expedite the resolution of kidnapping cases, coupled with enhanced surveillance in these regions, is essential to reducing such crimes.
 
