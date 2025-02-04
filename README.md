@@ -122,5 +122,69 @@ To address dataset inconsistencies and missing values, the following steps were 
 - Kidnapping incidents reported in the district ‘1’ remain unresolved, as the offenders have not been apprehended by officials. 
 - This raises serious concerns about the safety and security of residents in the region. Deploying specialized task forces to prioritize and expedite the resolution of kidnapping cases, coupled with enhanced surveillance in these regions, is essential to reducing such crimes.
 
+## Data visualizations in Python
+### 1.	Crime distribution Insights from a box plot
+![image](https://github.com/user-attachments/assets/850cc6a4-0af2-496c-9826-0182f228d6b4)
+- The box plot analysis reveals significant crime disparities across districts, with one outlier district reporting as few as 10 incidents, while the minimum crime count among other districts exceeds 10,000. 
+- The highest crime rate recorded in a single district reaches approximately 35,000 incidents.
+- This uneven crime distribution underscores the need for area-specific approach and policing strategies.
+
+### 2.	Crime distribution across top 40 blocks  
+![image](https://github.com/user-attachments/assets/2521f8b6-06ed-4584-8017-1e5ee0483552)
+- A bar chart visualizing the top 40 high-crime blocks reveals that only five blocks report crime incidents exceeding 500, while the remaining blocks have fewer than 500 incidents. 
+- This stark contrast highlights the need for targeted crime prevention measures in these five high-crime blocks.
+
+### 3.	Overall arrest rates 
+![image](https://github.com/user-attachments/assets/58e3e4a1-90cf-4446-99e1-a4b67db8d386)
+- The pie chart reveals that the overall arrest rate in the city stands at only 23.7%, which is significantly low.
+- This suggests a significant gap in law enforcement effectiveness, pointing to the need for more efficient strategies to identify and apprehend offenders. 
+
+### 4.	Arrest rates over the years
+![image](https://github.com/user-attachments/assets/4a3366fa-53a5-4758-8fdd-4cb7b3b02a14)
+- This bar graph displays crimes reported and corresponding arrests over the years, excluding 2001, 2023, and 2024, which had extremely high case numbers to enhance visualization.
+- The data indicates that 2011 had the lowest crime rate, and the total incidents staying below 1,000 between 2002 and 2015.
+- Notably, the arrest rate remained consistently low throughout the years, highlighting a concerning trend that requires attention through official meetings and crime record analysis.
+
+### 5.	Domestic crime rates
+![image](https://github.com/user-attachments/assets/8e652aa9-e870-4289-8390-2e816440b0cc)
+- The column chart illustrates that domestic crime cases in the city amount to around 1 lakh, while non-domestic crime cases significantly outnumber this, with approximately 4 lakh cases.
+- This stark disparity indicates that non-domestic crimes are a major concern in the city, accounting for a far greater proportion of criminal activity.
+- Measures focused on controlling non-domestic crimes are crucial for enhancing community safety.
+
+### 6.	FBI crime incidents and arrest rates
+![image](https://github.com/user-attachments/assets/d84b2b77-3237-4384-b503-63dd836d573a)
+- This heatmap displays the total number of cases for each respective FBI code along with their corresponding arrest counts which remain consistently low across all incidents.
+- A single crime and corresponding arrest are reported under FBI Code 27, while the highest arrest rates are observed in FBI Codes 19, 18, and 16.
+- FBI Code 6 records the highest number of incidents, with approximately 100,000 reported crimes, yet only 13,000 arrests—indicating a notably low arrest rate.
+- This underscores the urgent need for a more targeted approach in identifying offenders based on the severity of crimes associated with each code. 
+
+### 7.	Crime distribution across beats
+![image](https://github.com/user-attachments/assets/f39896a9-3521-45d0-aae5-2ae0e63d94ce)
+- The scatter plot highlights significant variations in crime incidents across beats, with some areas reporting high cases while others have almost none.
+- High-crime beats can adopt strategies from low-crime areas to enhance crime prevention, while resource allocation should prioritize high-crime zones for better enforcement.
+- Analyzing low-crime beats can offer valuable insights into effective crime reduction measures for broader implementation.
+
+### 8.	Homicide over the years
+![image](https://github.com/user-attachments/assets/441a8005-086d-4b45-bdd5-ddaa98ab4972)
+- The homicide crime trend has shown a notable decline in recent years, even as overall crime rates remain high. 
+- Homicide cases dropped below 200 in 2024, indicates successful crime control measures targeting homicides. 
+- The peak in 2021 warrants further analysis to understand the underlying motives and weapons used, offering valuable insights for strengthening crime prevention and public safety measures.
+
+### 9.	Crime involving children across districts
+![image](https://github.com/user-attachments/assets/ec42822e-a41c-4198-9ee5-d6f9deab3375)
+
+### 10. Histogram of crime distribution across districts
+![image](https://github.com/user-attachments/assets/a3b8eca1-b7e8-404f-9f17-a51afd2a1184)
+- A histogram analysis reveals that over 35,000 crimes occurred in two districts, while 30,000 crimes were recorded in five districts. 
+- In contrast, one district reported only around 10 cases and the remaining districts experienced crime incidents ranging between 10,000 and 30,000. 
+- This data can assist officials in identifying crime-prone districts and formulating targeted strategies to reduce crime rates effectively.
+
+## Recommendations to reduce crimes and enhance public safety
+•	Strengthen night patrolling to ensure safety, especially for late-night travellers and implement area-specific policing strategies based on crime distribution data.
+•	Target high-crime areas with strategic planning and interventions while improving offender tracking and apprehension to address gaps in law enforcement.
+•	Limit weapon circulation and increase public awareness of emergency helplines, alongside conducting anonymous social surveys to better understand gender-based crimes.
+•	Enforce child-specific policies to protect vulnerable groups and introduce rehabilitation programs and stricter enforcement to combat drug-related offenses.
+•	Leverage surveillance systems and data-driven crime analysis to enhance response times and crime prevention strategies.
+•	Regularly review and assess regulations and measures implemented to mitigate crime, evaluating their effectiveness to refine strategies and adapt as needed.
 
 
