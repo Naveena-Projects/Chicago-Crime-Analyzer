@@ -172,6 +172,9 @@ To address dataset inconsistencies and missing values, the following steps were 
 
 ### 9.	Crime involving children across districts
 ![image](https://github.com/user-attachments/assets/ec42822e-a41c-4198-9ee5-d6f9deab3375)
+- Crime incidents ranging between 30 to 200 across districts and above 50% of total crimes in several districts indicate that no district is completely safe for children, which is a serious concern. 
+- Data on total crimes and child related incidents across districts show that District 8 has the highest number of cases (above 200), while District 20 has the lowest (below 50).
+- This highlights the urgent need for child-specific policies and regulations to enhance the city's safety for children.
 
 ### 10. Histogram of crime distribution across districts
 ![image](https://github.com/user-attachments/assets/a3b8eca1-b7e8-404f-9f17-a51afd2a1184)
@@ -180,11 +183,11 @@ To address dataset inconsistencies and missing values, the following steps were 
 - This data can assist officials in identifying crime-prone districts and formulating targeted strategies to reduce crime rates effectively.
 
 ## Recommendations to reduce crimes and enhance public safety
-•	Strengthen night patrolling to ensure safety, especially for late-night travellers and implement area-specific policing strategies based on crime distribution data.
-•	Target high-crime areas with strategic planning and interventions while improving offender tracking and apprehension to address gaps in law enforcement.
-•	Limit weapon circulation and increase public awareness of emergency helplines, alongside conducting anonymous social surveys to better understand gender-based crimes.
-•	Enforce child-specific policies to protect vulnerable groups and introduce rehabilitation programs and stricter enforcement to combat drug-related offenses.
-•	Leverage surveillance systems and data-driven crime analysis to enhance response times and crime prevention strategies.
-•	Regularly review and assess regulations and measures implemented to mitigate crime, evaluating their effectiveness to refine strategies and adapt as needed.
+-	Strengthen night patrolling to ensure safety, especially for late-night travellers and implement area-specific policing strategies based on crime distribution data.
+-	Target high-crime areas with strategic planning and interventions while improving offender tracking and apprehension to address gaps in law enforcement.
+-	Limit weapon circulation and increase public awareness of emergency helplines, alongside conducting anonymous social surveys to better understand gender-based crimes.
+-	Enforce child-specific policies to protect vulnerable groups and introduce rehabilitation programs and stricter enforcement to combat drug-related offenses.
+-	Leverage surveillance systems and data-driven crime analysis to enhance response times and crime prevention strategies.
+-	Regularly review and assess regulations and measures implemented to mitigate crime, evaluating their effectiveness to refine strategies and adapt as needed.
 
 
